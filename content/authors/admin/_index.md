@@ -40,7 +40,7 @@ profiles:
     url: https://www.instagram.com/
 
 education:
-  - area: Computer Science 
+  - area: Computer Science
     institution: University of Maryland
     date_start: 2021-08-30
     date_end: 2024-05-20
