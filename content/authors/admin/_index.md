@@ -120,7 +120,7 @@ skills:
       - name: C++
         description: ''
         percent: 100
-        icon: devicon/C++
+        icon: devicon/cpp
       - name: C#
         description: ''
         percent: 100
