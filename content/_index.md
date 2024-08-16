@@ -2,6 +2,7 @@
 title: 'Home'
 date: 2023-10-24
 type: landing
+icon: devicon/python
 
 design:
   # Default section spacing
