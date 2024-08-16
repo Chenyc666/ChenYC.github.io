@@ -117,6 +117,31 @@ skills:
         description: ''
         percent: 100
         icon: devicon/java
+      - name: C++
+        description: ''
+        percent: 100
+        icon: devicon/C++
+      - name: C#
+        description: ''
+        percent: 100
+        icon: devicon/C#
+      - name: Ruby
+        description: ''
+        percent: 100
+        icon: devicon/ruby
+      - name: Dafny
+        description: ''
+        percent: 100
+        icon: devicon/dafny
+      - name: Dart
+        description: ''
+        percent: 100
+        icon: devicon/dart
+      - name: Javascript
+        description: ''
+        percent: 100
+        icon: devicon/javascript
+
 
   - name: Hobbies
     color: '#eeac02'
