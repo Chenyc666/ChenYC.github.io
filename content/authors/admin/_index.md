@@ -3,7 +3,7 @@
 title: Chen Ye
 
 # Name pronunciation (optional)
-name_pronunciation: Chen YE
+# name_pronunciation: Chen YE
 
 # Full name (for SEO)
 first_name: Chen
