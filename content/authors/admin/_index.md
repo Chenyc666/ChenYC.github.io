@@ -159,6 +159,18 @@ skills:
         description: ''
         percent: 80
         icon: camera
+      - name: Basketball
+        description: ''
+        percent: 80
+        icon: basketball
+      - name: Football
+        description: ''
+        percent: 80
+        icon: soccer
+      - name: Bicycle
+        description: ''
+        percent: 80
+        icon: bicycle
 
 languages:
   - name: English
