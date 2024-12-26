@@ -72,24 +72,28 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Algorithms, Data Structures, Object Oriented Programming I/II, Data Science, Linear Algebra, Artificial Intelligence, Programming Language Technologies 
+        and Paradigms,Web Application Development with
+        JavaScript, Organization of Programming Languages, Computer and Network Security, Programming Handheld Systems
+        Computer Systems, Discrete Structures, Calculus I/II/III
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Deployment Associate
+    company_name: AIYA Technology System
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+    date_start: 2024-10-01
+    date_end: 'Present'
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Database Administrator
+    company_name: Beans NUTRITION LLC
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-06-01
+    date_end: 2024-08-15
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
