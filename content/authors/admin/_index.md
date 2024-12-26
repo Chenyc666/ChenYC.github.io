@@ -72,10 +72,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - Algorithms, Data Structures, Object Oriented Programming I/II, Data Science, Linear Algebra, Artificial Intelligence, Programming Language Technologies 
-        and Paradigms,Web Application Development with
-        JavaScript, Organization of Programming Languages, Computer and Network Security, Programming Handheld Systems
-        Computer Systems, Discrete Structures, Calculus I/II/III
+      - Algorithms, Data Structures, Object Oriented Programming I/II, Data Science, Linear Algebra, Artificial Intelligence, Programming Language Technologies and Paradigms,Web Application Development with JavaScript, Organization of Programming Languages, Computer and Network Security, Programming Handheld Systems, Computer Systems, Discrete Structures, Calculus I/II/III
 work:
   - position: Deployment Associate
     company_name: AIYA Technology System
