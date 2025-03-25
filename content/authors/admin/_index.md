@@ -79,7 +79,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-10-01
-    date_end: 'Present'
+    date_end: '2025-05-01'
     summary: |2-
       Responsibilities include:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
