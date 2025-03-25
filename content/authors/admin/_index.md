@@ -57,21 +57,15 @@ education:
       GPA: 3.4/4.0
 
       Courses included:
-      - this is a test
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Algorithms, Data Structures, Object Oriented Programming I/II, Data Science, Linear Algebra, Artificial Intelligence, Programming Language Technologies and Paradigms,Web Application Development with JavaScript, Organization of Programming Languages, Computer and Network Security, Programming Handheld Systems, Computer Systems, Discrete Structures, Calculus I/II/III
   - area: AS in Computer Science
     institution: CUNY LaGuardia Community College
     date_start: 2019-09-01
     date_end: 2021-08-01
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.9/4.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - Algorithms, Data Structures, Object Oriented Programming I/II, Data Science, Linear Algebra, Artificial Intelligence, Programming Language Technologies and Paradigms,Web Application Development with JavaScript, Organization of Programming Languages, Computer and Network Security, Programming Handheld Systems, Computer Systems, Discrete Structures, Calculus I/II/III
 work:
   - position: Deployment Technician
@@ -79,7 +73,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2024-10-01
-    date_end: '2025-05-01'
+    date_end: ''
     summary: |2-
       Responsibilities include:
       - Provided technical support for client-server software and utilities, optimizing system performance for clients
