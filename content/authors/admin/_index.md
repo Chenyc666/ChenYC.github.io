@@ -69,7 +69,7 @@ education:
       - Algorithms, Data Structures, Object Oriented Programming I/II, Data Science, Linear Algebra, Artificial Intelligence, Programming Language Technologies and Paradigms,Web Application Development with JavaScript, Organization of Programming Languages, Computer and Network Security, Programming Handheld Systems, Computer Systems, Discrete Structures, Calculus I/II/III
 work:
   - position: Deployment Technician
-    company_name: AIYA Technology System
+    company_name: AIYA Technology System (SaaS)
     company_url: ''
     company_logo: ''
     date_start: 2024-10-01
