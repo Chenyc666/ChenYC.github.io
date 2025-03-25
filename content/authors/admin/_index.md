@@ -74,7 +74,7 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - Algorithms, Data Structures, Object Oriented Programming I/II, Data Science, Linear Algebra, Artificial Intelligence, Programming Language Technologies and Paradigms,Web Application Development with JavaScript, Organization of Programming Languages, Computer and Network Security, Programming Handheld Systems, Computer Systems, Discrete Structures, Calculus I/II/III
 work:
-  - position: Deployment Associate
+  - position: Deployment Technician
     company_name: AIYA Technology System
     company_url: ''
     company_logo: ''
@@ -82,9 +82,11 @@ work:
     date_end: '2025-05-01'
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Provided technical support for client-server software and utilities, optimizing system performance for clients
+      - Assisted in web application development and web service deployment, leveraging ASP.NET, C, and SQL for efficient backend solutions
+      - Designed and deployed web-based applications and services, integrating REST APIs to enhance system functionalities
+      - Configured and assigned static IP addresses for networked products, ensuring seamless connectivity and device integration on company’s AWS cloud server
+      - Collaborated with cross-functional teams, demonstrating strong teamwork, effective communication, and problem-solving skills, provide improvement UI design for customers
   - position: Database Administrator
     company_name: Beans NUTRITION LLC
     company_url: ''
@@ -93,9 +95,9 @@ work:
     date_end: 2024-08-15
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Developed JavaScript for a Lark extension, automating the creation of shipping documents, stream-lining dispatch processes, and enhancing UI/UX design to improve user interaction
+      - Implemented real-time email notifications for warehouse staff and drivers, and maintain, keep tracking warehouse inventory updates
+      - communication with different department
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
