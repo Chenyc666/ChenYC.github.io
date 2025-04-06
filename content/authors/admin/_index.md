@@ -93,6 +93,21 @@ work:
       - Implemented real-time email notifications for warehouse staff and drivers, and maintain, keep tracking warehouse inventory updates
       - communication with different department
 
+  - position: Software Engineer
+    company_name: University of Maryland Student Union
+    company_url: ''
+    company_logo: ''
+    date_start: 2023-08-01
+    date_end: 2024-05-20
+    summary: |
+      Responsibilities include:
+      - As the lead software developer intern, I have stood up and am currently managing our Azure Cloud Native Data Warehouse that centralizes data aggregated from the applications used by UMD Athletics and digests it into the cloud with ETL processes. I’ve been a major part of every step of the way since its emergence and current ongoing API integrations. Additionally, I synchronize various apps among athletic applications for staff and athletes using the app’s respective APIs.
+      
+
+
+
+
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
